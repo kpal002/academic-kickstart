@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Physics"
   institution = "University of California, Riverside"
-  year = 2017-present
+  year = 2017
 
 [[education.courses]]
   course = "Integrated BS-MS in Physics"
