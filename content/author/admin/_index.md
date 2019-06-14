@@ -54,7 +54,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "#contact"  # For a direct email link, use "kuntal.pal@email.ucr.edu".
 
 [[social]]
-  icon = "twitter"
+  icon = "arxiv"
   icon_pack = "fab"
   link = "https://twitter.com/GeorgeCushen"
 
