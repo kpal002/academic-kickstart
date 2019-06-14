@@ -34,19 +34,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in "
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Physics"
+  institution = "University of California, Riverside"
+  year = 2017-present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Integrated BS-MS in Physics"
+  institution = "IISER Kolkata"
+  year = 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,7 +54,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "#contact"  # For a direct email link, use "kuntal.pal@email.ucr.edu".
 
 [[social]]
-  icon = "twitter"
+  icon = "arxiv"
   icon_pack = "fab"
   link = "https://twitter.com/GeorgeCushen"
 
